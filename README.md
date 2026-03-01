@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👩‍💻 Hello, I'm Laize Nobre
+**` programming student `**
 
-<!--
-**LaizeNobre/LaizeNobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify"> Hello, my name is Laize, I am 18 years old and I am currently attending high school with a technical course in computer science at IFRN. I like technology and share my learning journey here.</p>
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://github.com/LaizeNobre?tab=followers">
+        <img alt="followers" title="follow me on github" src="https://custom-icon-badges.demolab.com/github/followers/LaizeNobre?color=CD5555&labelColor=EE6363&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    </a>
+    <a href=https://github.com/LaizeNobre?tab=stars>
+    <img alt="Total de estrelas" title="total stars" src="https://custom-icon-badges.demolab.com/github/stars/LaizeNobre?color=B8860B&style=for-the-badge&labelColor=DAA520&logo=star"/>
+    </a>
+    <a href="https://discord.gg/2uPmdmF8tV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Learning Journey
+
+<p align="justify"> Currently starting/developing in: </p>
+
+- English
+- PostgreSQL
+- Django
+
+## 🚀 Technologies and skills
+<img alt="Python" title="python" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+<img alt="Python" title="python" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+
+<img alt="Python" title="python" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img alt="Python" title="python" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img alt="Python" title="python" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+<img alt="Python" title="python" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+          

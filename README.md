@@ -18,7 +18,7 @@
 
 <p align="justify"> Currently starting/developing in: </p>
 
-- English
+- JavaScript
 - PostgreSQL
 - Django
 

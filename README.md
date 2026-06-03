@@ -20,7 +20,7 @@
 
 - JavaScript
 - PostgreSQL
-- Django
+- React
 
 ## 🚀 Technologies and skills
 <img alt="Python" title="Python" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -30,6 +30,10 @@
 <img alt="HTML5" title="HTML5" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img alt="CSS3" title="CSS3" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img alt="JavaScript" title="JavaScript" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+<img alt="React" title="React" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <img alt="Figma" title="Figma" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 

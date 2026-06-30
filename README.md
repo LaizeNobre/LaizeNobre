@@ -19,7 +19,7 @@
 <p align="justify"> Currently starting/developing in: </p>
 
 - JavaScript
-- PostgreSQL
+- FastAPI
 - React
 
 ## 🚀 Technologies and skills
@@ -34,6 +34,8 @@
 <img alt="JavaScript" title="JavaScript" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
 <img alt="React" title="React" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img alt="FastAPI" title="FastAPI" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
 
 <img alt="Figma" title="Figma" align="left" width=50px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
